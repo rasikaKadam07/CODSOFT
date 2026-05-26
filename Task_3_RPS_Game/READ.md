@@ -45,7 +45,7 @@ It's a fully-featured Rock Paper Scissors game with an AI opponent.
 
 ## Made by
     CodSoft Intern
-    RasiKa .H. Kadam
+    Rasika .H. Kadam
 
 ## Date
     26 May 2026
