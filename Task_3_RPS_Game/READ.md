@@ -44,8 +44,7 @@ It's a fully-featured Rock Paper Scissors game with an AI opponent.
     └── rps_game.py    # Main game file
 
 ## Made by
-    CodSoft Intern
     Rasika .H. Kadam
 
 ## Date
-    26 May 2026
+    May 2026
